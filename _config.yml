@@ -7,7 +7,7 @@ first_name: Janak
 middle_name:
 last_name: Dave
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  Best way to reach me is through my LinkedIn DM.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
@@ -263,8 +263,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Dave]
+  first_name: [Janak]
 
   style: apa
   locale: en
@@ -318,6 +318,7 @@ filtered_bibtex_keywords:
     selected,
     slides,
     supp,
+    tldr,
     video,
     website,
   ]
