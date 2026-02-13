@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Image Signal Processing Engineer at Healthcare Technology Innovation Centre
+subtitle: Image Signal Processing Engineer
 
 profile:
   align: right
@@ -26,7 +26,9 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-I'm a Master's student in Electrical Engineering at IIT Madras, specializing in computer vision, image processing, and GPU programming. My mission is to make AI in healthcare less of a black box and more of a trusted toolbox because life-saving diagnostics shouldn’t scare the doctors.
+I'm a Master's student in Electrical Engineering at IIT Madras, specializing in computer vision, image processing, and GPU programming. 
+
+My mission is to make AI in healthcare less of a black box and more of a trusted toolbox because life-saving diagnostics shouldn’t scare the doctors.
 
 Guided by the idea that "curiosity killed the cat, but satisfaction brought it back," I'm the kind of researcher who keeps asking "but why?" until the hardware gives up before I do. I spend my days teaching GPUs to see what doctors need, writing code that (mostly) works, and occasionally blogging about how three simple colors—red, green, and blue—can freeze moments in time and tell visual stories.
 

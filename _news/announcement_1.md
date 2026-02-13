@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2025-02-15 08:00:00+0530
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Received a grant from the **Bill & Melinda Gates Foundation** for Equitable Use of AI in Healthcare! <a href="https://gcgh.grandchallenges.org/grant/endoai-optimizing-endoscopic-workflow-ai-powered-report-generating-tool-enhanced-efficiency">Read more</a>
