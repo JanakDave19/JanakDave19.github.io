@@ -9,8 +9,8 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-my-publications",
-          title: "my publications",
+  },{id: "nav-publications",
+          title: "publications",
           description: "",
           section: "Navigation",
           handler: () => {
@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-codes",
           title: "codes",
-          description: "A collection of my coding projects and open-source contributions.",
+          description: "A collection of my coding projects.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/codes/";
@@ -420,6 +420,26 @@ ninja.data = [{
           description: "Solutions to the HackerRank 30 Days of Code challenge.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_hackerrank/";
+            },},{id: "projects-ee5176-computational-photography",
+          title: 'EE5176-Computational Photography',
+          description: "Instructor- Kaushik Mitra",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/5_ee5176/";
+            },},{id: "projects-ee5178-modern-computer-vision",
+          title: 'EE5178-Modern Computer Vision',
+          description: "Instructor- Kaushik Mitra",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/6_ee5178/";
+            },},{id: "projects-ee5179-deep-learning-for-imaging",
+          title: 'EE5179-Deep Learning For Imaging',
+          description: "Instructor- Kaushik Mitra",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/7_ee5179/";
+            },},{id: "projects-ee6130-advanced-topics-in-signal-processing",
+          title: 'EE6130-Advanced Topics in Signal Processing',
+          description: "Instructor- Kaushik Mitra",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/8_ee6130/";
             },},{
         id: 'social-email',
         title: 'email',
