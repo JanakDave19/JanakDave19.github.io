@@ -437,9 +437,14 @@ ninja.data = [{
               window.location.href = "/projects/7_ee5179/";
             },},{id: "projects-ee6130-advanced-topics-in-signal-processing",
           title: 'EE6130-Advanced Topics in Signal Processing',
-          description: "Instructor- Kaushik Mitra",
+          description: "Instructor- Umesh S",
           section: "Projects",handler: () => {
               window.location.href = "/projects/8_ee6130/";
+            },},{id: "projects-texture-enhancement-algorithm",
+          title: 'Texture Enhancement Algorithm',
+          description: "Algorithm for Texture Enhancement in Endoscopy",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/9_TXI/";
             },},{
         id: 'social-email',
         title: 'email',
