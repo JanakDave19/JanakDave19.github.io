@@ -3,6 +3,6 @@ layout: page
 title: Image Processing Basics
 description: Fundamental image processing algorithms and techniques.
 github: https://github.com/janak-dave/Image-Processing-Basics
-importance: 1
+importance: 2
 category: Self-Learning
 ---
