@@ -23,7 +23,25 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/codes/";
           },
-        },{id: "post-a-post-with-plotly-js",
+        },{id: "nav-blog",
+          title: "blog",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/blog/";
+          },
+        },{id: "post-understanding-the-pid-algorithm-a-light-intensity-controller-example",
+        
+          title: "Understanding the PID Algorithm: A Light-Intensity Controller Example",
+        
+        description: "What P, I and D really do, worked out on a camera-brightness loop that talks to a light source over I2C.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/understanding-pid-light-controller/";
+          
+        },
+      },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
         
